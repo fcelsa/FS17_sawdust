@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="38">
+<modDesc descVersion="39">
 	<author>fcelsa</author>
-	<version>1.2.0.0</version>
+	<version>1.2.1.0</version>
 	<title>
 		<en>Sawdust mod</en>
 		<de>Sawdust mod</de>
@@ -12,11 +12,13 @@
 		<de>
 			<![CDATA[Holzschnitzel zu Boden vom Entasten, Zuschneiden und Fällen von Bäumen - English: When cut with chainsaw or woodharvester machine, this mod simulate the leavings and sawdust with default woodchips tipped to ground, that then need to be load or clean. When chainsaw in use or when woodharvester he grabbed tree, is possible to change "dust" level from 0 (off) to 3 (max), default 2. Please note that only in zone ok for tip to ground woodchips are generated.
 ChangeLog:
+Ver. 1.2.1
+- fix error in multiplayer
+
 Ver. 1.2.0
 - fix issue with Seasons Wopstr instrument
 - code refactoring
 
-ChangeLog:
 Ver. 1.1.1
 - fix for some treesaw error
 
@@ -29,11 +31,13 @@ Ver. 1.1.0
 		<en>
 			<![CDATA[Sawdust to ground from cleaning delimb and cut of tree. When cut with chainsaw or woodharvester machine, this mod simulate the leavings and sawdust with default woodchips tipped to ground, that then need to be load or clean. When chainsaw in use or when woodharvester he grabbed tree, is possible to change "dust" level from 0 (off) to 3 (max), default 2. Please note that only in zone ok for tip to ground woodchips are generated.
 ChangeLog:
+Ver. 1.2.1
+- fix error in multiplayer
+
 Ver. 1.2.0
 - fix issue with Seasons Wopstr instrument
 - code refactoring
 
-ChangeLog:
 Ver. 1.1.1
 - fix for some treesaw error
 
@@ -46,11 +50,13 @@ Ver. 1.1.0
 		<fr>
 			<![CDATA[Sciure de bois sur le terrain avec la coupe d'arbres - English: When cut with chainsaw or woodharvester machine, this mod simulate the leavings and sawdust with default woodchips tipped to ground, that then need to be load or clean. When chainsaw in use or when woodharvester he grabbed tree, is possible to change "dust" level from 0 (off) to 3 (max), default 2. Please note that only in zone ok for tip to ground woodchips are generated.
 ChangeLog:
+Ver. 1.2.1
+- fix error in multiplayer
+
 Ver. 1.2.0
 - fix issue with Seasons Wopstr instrument
 - code refactoring
 
-ChangeLog:
 Ver. 1.1.1
 - fix for some treesaw error
 
@@ -63,11 +69,13 @@ Ver. 1.1.0
 		<it>
 			<![CDATA[Segatura a terra dal taglio degli alberi. Durante il taglio con la motosega e durante il taglio con i processori forestali viene simulato lo sporco, polvere segatura e residui attraverso la generazione di cippato a terra che poi deve essere caricato o pulito con un rullo o altra mod che permetta carico o cancellazione dei residui da terra. Quando la motosega è in uso, oppure quando il processore forestale ha afferrato un albero, con il tasto Z è possibile regolare la quantità di "sporco" generata da 0 (off) a 3 massima quantità, default è 2. Si prega di notare che il cippato viene generato solo nelle zone dove lo scarico a terra è possibile.
 ChangeLog:
+Ver. 1.2.1
+- fix error in multiplayer
+
 Ver. 1.2.0
 - fix issue with Seasons Wopstr instrument
 - code refactoring
 
-ChangeLog:
 Ver. 1.1.1
 - fix for some treesaw error
 

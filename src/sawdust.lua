@@ -15,6 +15,7 @@
 -- from version 1.1.0 sawdust from stumpCutter e treeSaw
 -- ver. 1.1.1 fix error with some treesaw no cutnode vehicle type
 -- ver. 1.2.0 fix issue with Seasons Wopstr instrument, code refacotring
+-- ver. 1.2.1 fix issue in multiplayer
 sawdust = {};
 
 sawdust.totalSawdust = 2;
@@ -33,6 +34,7 @@ AmountTypes.CHAINSAW_CUT = 4;
 AmountTypes.CHAINSAW_CUTDOWN = 5;
 
 function sawdust:loadMap(name)
+    g_currentMission.sawdustBase = self;
 end
 
 function sawdust:deleteMap()

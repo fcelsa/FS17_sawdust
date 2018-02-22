@@ -14,6 +14,8 @@
 -- when woodhaverster has grabbed a tree after cut.
 -- from version 1.1.0 sawdust from stumpCutter e treeSaw
 -- ver. 1.1.1 fix error with some treesaw no cutnode vehicle type
+-- ver. 1.2.0 fix issue with Seasons Wopstr instrument, code refacotring
+-- ver. 1.2.1 fix issue in multiplayer
 sawdustEvent = {};
 sawdustEvent_mt = Class(sawdustEvent, Event);
 
