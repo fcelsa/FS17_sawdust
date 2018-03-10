@@ -214,7 +214,7 @@ function sawdust:addChipToGround(x, y, z, amount)
             local outerRadius = TipUtil.getDefaultMaxRadius(FillUtil.FILLTYPE_WOODCHIPS);
             TipUtil.tipToGroundAroundLine(nil, amount, FillUtil.FILLTYPE_WOODCHIPS, x, y, z, ex, ey, ez, 0, outerRadius, 1, false, nil, false);
         else
-            g_client:getServerConnection():sendEvent(sawdustEvent:new(x, y, z, amountDelta));
+            g_client:getServerConnection():sendEvent(sawdustEvent:new(x, y, z, amount));
         end
     end
 end
