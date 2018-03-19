@@ -16,6 +16,8 @@
 -- ver. 1.1.1 fix error with some treesaw no cutnode vehicle type
 -- ver. 1.2.0 fix issue with Seasons Wopstr instrument, code refacotring
 -- ver. 1.2.1 fix issue in multiplayer
+-- ver. 1.2.2 fix dedicated server issue
+
 sawdust = {};
 
 sawdust.totalSawdust = 2;
